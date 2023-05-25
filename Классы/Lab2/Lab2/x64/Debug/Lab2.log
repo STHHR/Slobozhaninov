@@ -1,6 +1,0 @@
-﻿  Main.cpp
-C:\Users\slobo\OneDrive\Учебное\Информатика\2023\Классы\Lab2\Main.cpp(26,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-C:\Users\slobo\OneDrive\Учебное\Информатика\2023\Классы\Lab2\Main.cpp(31,32): warning C4305: аргумент: усечение из "double" в "float"
-  Route.cpp
-  Создание кода...
-  Lab2.vcxproj -> C:\Users\slobo\OneDrive\Учебное\Информатика\2023\Классы\Lab2\x64\Debug\Lab2.exe
